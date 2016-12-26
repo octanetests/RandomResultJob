@@ -1,3 +1,5 @@
+package com.hp.simpletest;
+
 import junit.framework.Assert;
 import org.junit.Test;
 import java.util.Random;
