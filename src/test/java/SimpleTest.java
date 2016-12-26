@@ -1,4 +1,4 @@
-package com.hp.simpletest;
+package com.hp.NotSOsimpletest;
 
 import junit.framework.Assert;
 import org.junit.Test;
