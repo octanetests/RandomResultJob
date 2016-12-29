@@ -1,3 +1,4 @@
+
 package com.hp.NotSOsimpletest;
 
 import junit.framework.Assert;
@@ -10,6 +11,10 @@ import java.util.Random;
  */
 public class SimpleTest {
 //Some new thing
+      
+      
+      
+   @Test   
       public void alwaysPass4()
    {
        Assert.assertEquals(1, 1);
